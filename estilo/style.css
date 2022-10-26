@@ -31,10 +31,11 @@ header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--font3);
-    font-size: 4em;
+    font-size: 10vw;
 }
 header > p {
     padding-bottom: 50px;
+    font-size: 1em;
 }
 
 a {
